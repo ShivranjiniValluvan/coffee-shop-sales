@@ -90,7 +90,7 @@ Avg Revenue per Transaction = DIVIDE([Total Revenue], [Total Transactions])
 ## Repository Structure
 
 ```
-coffee-shop-sales-dashboard/
+coffee-shop-sales/
 ├── data/        Excel file with the added columns
 ├── dashboard/   Power BI file (.pbix) and preview image
 └── README.md
