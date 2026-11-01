@@ -6,8 +6,6 @@ An interactive Power BI dashboard that analyzes six months of sales from a 3-sto
 
 ## Problem Statement
 
-## Problem Statement
-
 The owner of a 3-store coffee shop chain wants to understand when sales happen, which stores and products bring in the most revenue, and how to plan staffing better. This project turns the raw transaction data into a dashboard that answers these questions.
 
 ## Questions Answered
